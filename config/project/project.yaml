@@ -1,0 +1,22 @@
+dateModified: 1723020655
+email:
+  fromEmail: sample@email.com
+  fromName: CraftBlog
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2af806e5-f978-4c84-9734-d7877032e34f: CraftBlog # CraftBlog
+    499b877e-a62e-4276-baab-256ed72dfb6b: CraftBlog # CraftBlog
+system:
+  edition: solo
+  live: true
+  name: CraftBlog
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
